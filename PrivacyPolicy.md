@@ -15,6 +15,11 @@ It does however use some personal data for some features.
 
 These things are disclosed below, any questions, please contact us (see details at bottom).
 
+### Data Collection:
+- No personal data is **collected** by us, all data is used and stored by google play games or locally on device. 
+- The only data that leaves the app is through Google play games, if you decide to sign in and use the service in the app. 
+- If you decide against this, no data is used or transmitted in any way.
+
 ## Use of Google's "Google PlayGames" service:
 
 Our game makes use of Google's "Google PlayGames" services, If you choose to sign in to the app. This allows for achievements to sync to the service, adding to your PlayGames Profile and for leeaderboard submissions to see rankings.
